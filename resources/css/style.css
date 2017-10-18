@@ -2,16 +2,16 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
-#home, #design, #bottom {
+#home, #design, #bottom, a {
   color: white;
 }
-#home {
+#home, #design {
   background-image: url(../images/the-flatiron-building.png);
 }
 h1 {
   font-size: 70px;
 }
-nav #home {
+a {
   font-size: 18px;
 }
 h2 {
@@ -27,5 +27,6 @@ span #bottom {
   font-size: 11px
 }
 #bottom {
+  text-align: left;
   background-color: dimgray;
 }
