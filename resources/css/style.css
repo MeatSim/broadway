@@ -23,6 +23,9 @@ h3 {
 p {
   font-size: 14px
 }
-#design {
-  
+span #bottom {
+  font-size: 11px
+}
+#bottom {
+  background-color: dimgray;
 }
